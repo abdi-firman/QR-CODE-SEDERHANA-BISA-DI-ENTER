@@ -19,7 +19,5 @@ Anda dipersilakan untuk mengedit proyek ini sesuai kebutuhan Anda. Silakan berko
 Proyek ini didasarkan pada contoh QR Code Generator Sederhana dengan API dari qrserver.com. Anda dapat menemukan versi asli dan dokumentasinya di tautan berikut:
 - https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=${encodeURIComponent(input.value)}
 
-Mohon tetap mencantumkan sumber ini ketika Anda menggunakan dan/atau mengedit proyek ini.
-
 ## Lisensi
 Proyek ini dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT).
