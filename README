@@ -1,0 +1,25 @@
+# QR Code Generator Sederhana
+
+Ini adalah proyek QR Code Generator sederhana yang dapat digunakan untuk menghasilkan kode QR berdasarkan teks yang dimasukkan.
+
+## Penggunaan
+
+1. Clone repositori ini ke dalam direktori lokal: https://github.com/abdi-firman/QR-CODE-SEDERHANA-BISA-DI-ENTER
+2. Buka file `index.html` di browser web Anda.
+3. Pada halaman web yang terbuka, Anda akan melihat area input teks dan dua tombol, "Generate" dan "Download".
+4. Masukkan teks yang ingin Anda ubah menjadi QR code dalam area input atau `<textarea>` yang disediakan.
+5. Klik tombol "Generate" atau tekan tombol Enter untuk menghasilkan QR code berdasarkan teks yang dimasukkan.
+6. QR code yang dihasilkan akan ditampilkan di bawah area input.
+7. Jika Anda ingin mengunduh QR code, klik tombol "Download" untuk mengunduhnya dalam format gambar.
+
+## Kontribusi
+Anda dipersilakan untuk mengedit proyek ini sesuai kebutuhan Anda. Silakan berkontribusi dengan melakukan fork dari repositori ini dan mengirimkan pull request dengan perubahan yang diinginkan.
+
+## Sumber
+Proyek ini didasarkan pada contoh QR Code Generator Sederhana dengan API dari qrserver.com. Anda dapat menemukan versi asli dan dokumentasinya di tautan berikut:
+- https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=${encodeURIComponent(input.value)}
+
+Mohon tetap mencantumkan sumber ini ketika Anda menggunakan dan/atau mengedit proyek ini.
+
+## Lisensi
+Proyek ini dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT).
